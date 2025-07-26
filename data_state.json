@@ -1,0 +1,348 @@
+{
+    "andhrapradesh": {
+      "title": "Andhra Pradesh - GeoLearn",
+      "videoUrl": "",
+      "info": "Andhra Pradesh, known for its beautiful beaches and rich cultural heritage, is located on the southeastern coast of India.",
+      "cards": [
+        "Andhra Pradesh is home to the famous temple town of Tirupati, one of the richest pilgrimage sites in the world.",
+        "The state is known for its delicious cuisine, especially its spicy Andhra food.",
+        "Kolleru Lake in Andhra Pradesh is one of the largest freshwater lakes in India."
+      ],
+      "quizLink": ""
+    },
+    "arunachalpradesh": {
+      "title": "Arunachal Pradesh - GeoLearn",
+      "videoUrl": "",
+      "info": "Arunachal Pradesh, located in the northeastern part of India, is known for its lush green landscapes and vibrant tribal culture.",
+      "cards": [
+        "Arunachal Pradesh is often called the 'Land of the Rising Sun' as it is the first place in India to witness sunrise.",
+        "The Tawang Monastery in Arunachal Pradesh is the second-largest Buddhist monastery in the world.",
+        "Arunachal Pradesh is home to several indigenous tribes with unique traditions and cultures."
+      ],
+      "quizLink": ""
+    },
+    "assam": {
+      "title": "Assam - GeoLearn",
+      "videoUrl": "",
+      "info": "Assam, located in the northeastern region, is famous for its tea gardens, wildlife, and rich history.",
+      "cards": [
+        "Assam is the birthplace of the world-famous Assam tea, known for its strong flavor.",
+        "Kaziranga National Park in Assam is home to the largest population of one-horned rhinoceroses.",
+        "The Brahmaputra River, one of the longest rivers in the world, flows through Assam."
+      ],
+      "quizLink": ""
+    },
+    "bihar": {
+      "title": "Bihar - GeoLearn",
+      "videoUrl": "",
+      "info": "Bihar, one of the oldest states in India, is known for its historical significance and educational heritage.",
+      "cards": [
+        "Bihar is the birthplace of Lord Buddha and the site of the ancient Nalanda University.",
+        "The state is known for its vibrant festivals, including Chhath Puja.",
+        "Patna, the capital of Bihar, was once the capital of the ancient Magadh empire."
+      ],
+      "quizLink": ""
+    },
+    "chhattisgarh": {
+      "title": "Chhattisgarh - GeoLearn",
+      "videoUrl": "",
+      "info": "Chhattisgarh, known for its mineral resources and dense forests, is a major industrial hub in India.",
+      "cards": [
+        "Chhattisgarh is home to the famous Chitrakote Falls, often referred to as the 'Niagara of India'.",
+        "The state is rich in tribal culture and has a large number of tribal communities.",
+        "Chhattisgarh's Bastar region is known for its unique art and craft traditions."
+      ],
+      "quizLink": ""
+    },
+    "goa": {
+      "title": "Goa - GeoLearn",
+      "videoUrl": "",
+      "info": "Goa, a small coastal state, is famous for its stunning beaches, Portuguese-influenced architecture, and vibrant nightlife.",
+      "cards": [
+        "Goa is known for its beautiful beaches like Baga, Calangute, and Anjuna.",
+        "The state has a unique blend of Indian and Portuguese cultures, visible in its churches and cuisine.",
+        "Goa hosts one of the most famous carnival festivals in India."
+      ],
+      "quizLink": ""
+    },
+    "gujarat": {
+      "title": "Gujarat - GeoLearn",
+      "videoUrl": "",
+      "info": "Gujarat, located on the western coast of India, is known for its diverse culture, rich history, and major economic contributions.",
+      "cards": [
+        "Gujarat is the birthplace of Mahatma Gandhi, the father of the nation.",
+        "The state is home to the Rann of Kutch, known for its white salt desert and the Rann Utsav.",
+        "Gujarat has the longest coastline of any Indian state, stretching over 1,600 km."
+      ],
+      "quizLink": ""
+    },
+    "haryana": {
+      "title": "Haryana - GeoLearn",
+      "videoUrl": "",
+      "info": "Haryana, a northern state, is known for its agriculture, sports achievements, and proximity to Delhi.",
+      "cards": [
+        "Haryana has produced many prominent wrestlers and athletes in India.",
+        "The state is known for its vast fields of wheat and rice.",
+        "Sultanpur Bird Sanctuary in Haryana is home to many migratory birds."
+      ],
+      "quizLink": ""
+    },
+    "himachalpradesh": {
+      "title": "Himachal Pradesh - GeoLearn",
+      "videoUrl": "",
+      "info": "Himachal Pradesh, located in the Himalayan region, is known for its scenic landscapes and tourist destinations.",
+      "cards": [
+        "Shimla, the capital of Himachal Pradesh, was once the summer capital of British India.",
+        "The Great Himalayan National Park is a UNESCO World Heritage site.",
+        "Himachal Pradesh is known for its apple orchards, particularly in Kullu and Manali."
+      ],
+      "quizLink": ""
+    },
+    "jharkhand": {
+      "title": "Jharkhand - GeoLearn",
+      "videoUrl": "",
+      "info": "Jharkhand, located in eastern India, is rich in minerals, forests, and wildlife.",
+      "cards": [
+        "Jharkhand is home to the famous Parasnath Hill, a pilgrimage site for Jainism.",
+        "The state has a large tribal population, with unique cultures and traditions.",
+        "The Betla National Park is a major wildlife sanctuary in Jharkhand."
+      ],
+      "quizLink": ""
+    },
+    "karnataka": {
+      "title": "Karnataka - GeoLearn",
+      "videoUrl": "",
+      "info": "Karnataka, located in the southwestern part of India, is known for its historical sites, rich culture, and thriving IT industry.",
+      "cards": [
+        "Bangalore, the capital city, is known as the 'Silicon Valley of India'.",
+        "Hampi, a UNESCO World Heritage site, was once the capital of the Vijayanagara Empire.",
+        "Karnataka is known for its coffee plantations in Coorg."
+      ],
+      "quizLink": ""
+    },
+    "kerala": {
+      "title": "Kerala - GeoLearn",
+      "videoUrl": "",
+      "info": "Kerala, known for its backwaters, palm-lined beaches, and rich cultural heritage, is a popular tourist destination.",
+      "cards": [
+        "Kerala is often called 'God's Own Country' due to its natural beauty.",
+        "The backwaters of Kerala, including Alleppey and Kumarakom, are famous for houseboat rides.",
+        "Kerala is the birthplace of Ayurveda, the ancient Indian system of medicine."
+      ],
+      "quizLink": ""
+    },
+    "madhyapradesh": {
+      "title": "Madhya Pradesh - GeoLearn",
+      "videoUrl": "",
+      "info": "Madhya Pradesh, the heart of India, is known for its rich history, wildlife, and historical monuments.",
+      "cards": [
+        "Khajuraho, a UNESCO World Heritage site, is famous for its ancient temples with intricate erotic sculptures.",
+        "The Kanha National Park in Madhya Pradesh is one of the largest national parks in India.",
+        "The state is home to the ancient city of Ujjain, an important Hindu pilgrimage site."
+      ],
+      "quizLink": ""
+    },
+    "maharashtra": {
+      "title": "Maharashtra - GeoLearn",
+      "videoUrl": "",
+      "info": "Maharashtra, located in western India, is known for its diverse landscapes, rich culture, and financial hub, Mumbai.",
+      "cards": [
+        "Mumbai, the capital of Maharashtra, is the entertainment capital of India and home to Bollywood.",
+        "Maharashtra is home to Ajanta and Ellora caves, famous for their ancient rock-cut temples and monasteries.",
+        "The state is known for its delicious vada pav, pav bhaji, and puran poli."
+      ],
+      "quizLink": ""
+    },
+    "manipur": {
+      "title": "Manipur - GeoLearn",
+      "videoUrl": "",
+      "info": "Manipur, located in the northeastern part of India, is known for its vibrant culture, dance, and natural beauty.",
+      "cards": [
+        "Manipur is known for its classical dance form, Manipuri, which is a UNESCO intangible cultural heritage.",
+        "The Loktak Lake, with its floating phumdis, is the largest freshwater lake in northeastern India.",
+        "Manipur is famous for its handloom products, especially its shawls and textiles."
+      ],
+      "quizLink": ""
+    },
+    "meghalaya": {
+      "title": "Meghalaya - GeoLearn",
+      "videoUrl": "",
+      "info": "Meghalaya, located in the northeastern region, is known for its scenic beauty, living root bridges, and rich culture.",
+      "cards": [
+        "Meghalaya is known as the 'Abode of Clouds' due to its high rainfall and misty weather.",
+        "The living root bridges in Meghalaya are unique, made by weaving the roots of trees.",
+        "Cherrapunji in Meghalaya was once considered the wettest place on Earth."
+      ],
+      "quizLink": ""
+    },
+
+
+
+    "mizoram": {
+        "title": "Mizoram - GeoLearn",
+        "videoUrl": "",
+        "info": "Mizoram, located in the northeastern region, is known for its scenic landscapes, tribal culture, and rich biodiversity.",
+        "cards": [
+        "Mizoram is home to the Mizo people, known for their music, dance, and festivals.",
+        "The state is famous for its lush green hills, valleys, and bamboo forests.",
+        "Mizoram has one of the highest literacy rates in India."
+        ],
+        "quizLink": ""
+    },
+    "nagaland": {
+        "title": "Nagaland - GeoLearn",
+        "videoUrl": "",
+        "info": "Nagaland, situated in the northeastern corner of India, is known for its colorful festivals, tribal culture, and hilly terrain.",
+        "cards": [
+        "Nagaland is known for the Hornbill Festival, which showcases the state's tribal culture and traditions.",
+        "The state has several indigenous tribes, each with its own unique customs and languages.",
+        "Nagaland is rich in flora and fauna, with many species found nowhere else in India."
+        ],
+        "quizLink": ""
+    },
+    "odisha": {
+        "title": "Odisha - GeoLearn",
+        "videoUrl": "",
+        "info": "Odisha, located on the eastern coast of India, is known for its ancient temples, rich history, and vibrant culture.",
+        "cards": [
+        "Odisha is home to the famous Jagannath Temple in Puri, which attracts millions of devotees during the Rath Yatra.",
+        "The state has a rich tradition of dance and music, with Odissi being one of the classical dance forms of India.",
+        "Konark Sun Temple, a UNESCO World Heritage site, is one of the most iconic temples in India."
+        ],
+        "quizLink": ""
+    },
+    "punjab": {
+        "title": "Punjab - GeoLearn",
+        "videoUrl": "",
+        "info": "Punjab, located in the northwestern region, is known for its agricultural prosperity, vibrant culture, and historic significance.",
+        "cards": [
+        "Punjab is the land of the 'Golden Temple' in Amritsar, a major pilgrimage site for Sikhs.",
+        "The state is famous for its rich food culture, including dishes like butter chicken and sarson da saag.",
+        "Punjab is the breadbasket of India, producing a significant amount of the country's food crops."
+        ],
+        "quizLink": ""
+    },
+    "rajasthan": {
+        "title": "Rajasthan - GeoLearn",
+        "videoUrl": "",
+        "info": "Rajasthan, located in the northwestern part of India, is known for its desert landscapes, royal palaces, and colorful festivals.",
+        "cards": [
+        "Rajasthan is home to the Thar Desert, the largest desert in India.",
+        "The state is famous for its majestic palaces and forts, including the Amer Fort and the City Palace in Udaipur.",
+        "Jaipur, the capital city, is known as the 'Pink City' for its distinctive pink-colored buildings."
+        ],
+        "quizLink": ""
+    },
+    "sikkim": {
+        "title": "Sikkim - GeoLearn",
+        "videoUrl": "",
+        "info": "Sikkim, located in the northeastern part of India, is known for its picturesque landscapes, Buddhist monasteries, and rich biodiversity.",
+        "cards": [
+        "Sikkim is home to the third-highest mountain in the world, Kangchenjunga.",
+        "The state has a unique blend of Hindu and Buddhist cultures, with several monasteries and temples.",
+        "Sikkim is known for its organic farming and is the first fully organic state in India."
+        ],
+        "quizLink": ""
+    },
+    "tamilNadu": {
+        "title": "Tamil Nadu - GeoLearn",
+        "videoUrl": "",
+        "info": "Tamil Nadu, located in the southern part of India, is known for its Dravidian architecture, classical music, and vibrant culture.",
+        "cards": [
+        "Chennai, the capital of Tamil Nadu, is known as the 'Detroit of India' due to its automotive industry.",
+        "The state is famous for its ancient temples, such as the Meenakshi Temple in Madurai.",
+        "Tamil Nadu is a major center for Bharatanatyam, a classical Indian dance form."
+        ],
+        "quizLink": ""
+    },
+    "telangana": {
+        "title": "Telangana - GeoLearn",
+        "videoUrl": "",
+        "info": "Telangana, located in southern India, is known for its rich history, vibrant culture, and growing IT industry.",
+        "cards": [
+        "Hyderabad, the capital of Telangana, is known for its historical sites and the iconic Charminar.",
+        "The state is famous for its Hyderabadi biryani, a dish of royal origin.",
+        "Telangana is home to several ancient temples and forts, including the Warangal Fort."
+        ],
+        "quizLink": ""
+    },
+    "tripura": {
+        "title": "Tripura - GeoLearn",
+        "videoUrl": "",
+        "info": "Tripura, located in the northeastern region, is known for its royal heritage, cultural diversity, and beautiful landscapes.",
+        "cards": [
+        "Tripura is home to the Tripura Sundari Temple, one of the 51 Shakti Peethas in India.",
+        "The state has a rich tradition of handlooms and handicrafts, particularly its woven carpets.",
+        "The state is known for its wildlife sanctuaries, such as the Sepahijala Wildlife Sanctuary."
+        ],
+        "quizLink": ""
+    },
+
+    "uttarakhand": {
+    "title": "Uttarakhand - GeoLearn",
+    "videoUrl": "",
+    "info": "Uttarakhand, located in the northern part of India, is known for its scenic mountains, pilgrimage sites, and natural beauty.",
+    "cards": [
+        "Uttarakhand is known for its two famous pilgrimage sites: Haridwar and Rishikesh.",
+        "The state is home to several hill stations, such as Nainital and Mussoorie.",
+        "Nanda Devi, located in Uttarakhand, is the second-highest mountain in India."
+    ],
+    "quizLink": ""
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    "uttarpradesh": {
+        "title": "Uttar Pradesh - GeoLearn",
+        "videoUrl": "",
+        "info": "Uttar Pradesh, located in the northern part of India, is one of the most populous states, known for its historical significance and religious landmarks.",
+        "cards": [
+        "Uttar Pradesh is home to the Taj Mahal, one of the Seven Wonders of the World.",
+        "The city of Varanasi, on the banks of the Ganges, is one of the oldest living cities in the world.",
+        "The Kumbh Mela, held in Allahabad, is one of the largest religious gatherings in the world."
+        ],
+        "quizLink": ""
+    },
+    "westbengal": {
+        "title": "West Bengal - GeoLearn",
+        "videoUrl": "",
+        "info": "West Bengal, located in the eastern part of India, is known for its rich cultural heritage, intellectual legacy, and historical significance.",
+        "cards": [
+        "Kolkata, the capital of West Bengal, is known as the 'City of Joy' for its vibrant culture and festivals.",
+        "West Bengal is the birthplace of many great poets and intellectuals, including Rabindranath Tagore.",
+        "The Sundarbans, the largest mangrove forest in the world, is located in West Bengal."
+        ],
+        "quizLink": ""
+    }
+    }
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  

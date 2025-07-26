@@ -1,0 +1,138 @@
+{
+    "jammu and kashmir": [
+      {
+        "question": "Which two cities serve as the capitals of Jammu and Kashmir?",
+        "options": ["Jammu and Leh", "Srinagar and Jammu", "Leh and Kargil", "Srinagar and Anantnag"],
+        "answer": "Srinagar and Jammu"
+      },
+      {
+        "question": "What is Dal Lake famous for?",
+        "options": ["Waterfalls", "Boating and houseboats", "Fishing ports", "Coral reefs"],
+        "answer": "Boating and houseboats"
+      },
+      {
+        "question": "Which temple in Jammu and Kashmir is a major Hindu pilgrimage site?",
+        "options": ["Kashi Vishwanath", "Vaishno Devi", "Amarnath", "Somnath"],
+        "answer": "Vaishno Devi"
+      },
+      {
+        "question": "What traditional fabric is Jammu and Kashmir known for?",
+        "options": ["Khadi", "Pashmina", "Silk", "Cotton"],
+        "answer": "Pashmina"
+      },
+      {
+        "question": "In which year did Jammu and Kashmir become a Union Territory?",
+        "options": ["2014", "2016", "2019", "2021"],
+        "answer": "2019"
+      }
+    ],
+    "ladakh": [
+      {
+        "question": "Which city is the administrative capital of Ladakh?",
+        "options": ["Leh", "Kargil", "Srinagar", "Zanskar"],
+        "answer": "Leh"
+      },
+      {
+        "question": "Which famous lake is located in Ladakh?",
+        "options": ["Dal Lake", "Pangong Lake", "Chilika Lake", "Loktak Lake"],
+        "answer": "Pangong Lake"
+      },
+      {
+        "question": "Ladakh is famous for which form of religion?",
+        "options": ["Islam", "Christianity", "Hinduism", "Tibetan Buddhism"],
+        "answer": "Tibetan Buddhism"
+      },
+      {
+        "question": "What pass is one of the highest motorable roads in the world in Ladakh?",
+        "options": ["Nathu La", "Rohtang Pass", "Khardung La", "Shipki La"],
+        "answer": "Khardung La"
+      },
+      {
+        "question": "Ladakh became a separate Union Territory in which year?",
+        "options": ["2017", "2018", "2019", "2020"],
+        "answer": "2019"
+      }
+    ],
+    "puducherry": [
+      {
+        "question": "What is Puducherry best known for?",
+        "options": ["Portuguese heritage", "French colonial legacy", "Dutch buildings", "British rule"],
+        "answer": "French colonial legacy"
+      },
+      {
+        "question": "Which spiritual township is located near Puducherry?",
+        "options": ["Auroville", "Sri City", "Vedanta Nagar", "Yoga Puram"],
+        "answer": "Auroville"
+      },
+      {
+        "question": "Puducherry was merged into India in which year?",
+        "options": ["1947", "1954", "1962", "1971"],
+        "answer": "1954"
+      },
+      {
+        "question": "Which sea borders Puducherry?",
+        "options": ["Arabian Sea", "Bay of Bengal", "Red Sea", "Andaman Sea"],
+        "answer": "Bay of Bengal"
+      },
+      {
+        "question": "How many separate regions make up Puducherry UT?",
+        "options": ["2", "3", "4", "5"],
+        "answer": "4"
+      }
+    ],
+    "lakshadweep": [
+      {
+        "question": "Where is Lakshadweep located?",
+        "options": ["Bay of Bengal", "Arabian Sea", "Indian Ocean", "Andaman Sea"],
+        "answer": "Arabian Sea"
+      },
+      {
+        "question": "What type of islands make up Lakshadweep?",
+        "options": ["Volcanic", "Coral atolls", "Rocky", "Sand dunes"],
+        "answer": "Coral atolls"
+      },
+      {
+        "question": "What is the capital of Lakshadweep?",
+        "options": ["Agatti", "Kavaratti", "Minicoy", "Kadmat"],
+        "answer": "Kavaratti"
+      },
+      {
+        "question": "Which language is commonly spoken in Lakshadweep?",
+        "options": ["Telugu", "Malayalam", "Gujarati", "Tamil"],
+        "answer": "Malayalam"
+      },
+      {
+        "question": "What is restricted on most islands in Lakshadweep?",
+        "options": ["Fishing", "Boating", "Alcohol", "Photography"],
+        "answer": "Alcohol"
+      }
+    ],
+    "dadraandnagarhavelianddamananddiu": [
+      {
+        "question": "When was Dadra and Nagar Haveli and Daman and Diu merged into one UT?",
+        "options": ["2018", "2019", "2020", "2021"],
+        "answer": "2020"
+      },
+      {
+        "question": "Which city is the administrative capital of this UT?",
+        "options": ["Diu", "Silvassa", "Daman", "Nagar Haveli"],
+        "answer": "Daman"
+      },
+      {
+        "question": "Which European power ruled Daman and Diu?",
+        "options": ["British", "Dutch", "French", "Portuguese"],
+        "answer": "Portuguese"
+      },
+      {
+        "question": "Silvassa is known for its?",
+        "options": ["Hill stations", "Tribal heritage", "Port", "Silk industry"],
+        "answer": "Tribal heritage"
+      },
+      {
+        "question": "Which beach is a popular tourist spot in Daman?",
+        "options": ["Devka Beach", "Calangute Beach", "Juhu Beach", "Radhanagar Beach"],
+        "answer": "Devka Beach"
+      }
+    ]
+  }
+  
